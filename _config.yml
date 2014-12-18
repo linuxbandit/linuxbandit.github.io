@@ -3,3 +3,23 @@ highlighter: pygments
 url: http://example.com
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
+
+
+
+# Links to include in top navigation
+# For external links add external: true
+#links:
+#  - title: Home
+#    url: /
+#  - title: About
+#    url: /about
+#  - title: Resources
+#    url: /resources
+#  - title: Notes
+#    url: /notes
+
+#links:
+#  - { title: Home, url: /index }
+#  - { title: About, url: /about }
+#  - { title: Resources, url: /resources }
+#  - { title: Notes, url: /notes }

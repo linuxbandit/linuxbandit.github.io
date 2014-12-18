@@ -5,3 +5,14 @@
 {% include css/screen.css %}
 {% include css/layout.css %}
 {% include css/syntax.css %}
+
+/* #Nice colors no eye-stressing
+================================================== */
+body.night {
+    color: rgb(127, 123, 108);
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: rgb(127, 123, 108);
+}

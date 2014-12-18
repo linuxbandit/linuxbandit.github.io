@@ -1,4 +1,7 @@
 _site/
+resume/temp
+.gitignore
 .DS_Store
 .*.swp
 .idea
+*~
