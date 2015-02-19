@@ -9,4 +9,4 @@ I worked for IBM for a period before having to quit for personal reasons. Till n
 
 Have a look at my [short resume here](../resume/)
 
-You can reach me at {{site.theme.email}} -- Alternatively, I also still check bellicaf at tcd dot ie.
+You can reach me at {{ site.data.theme.email }} -- Alternatively, I also still check bellicaf at tcd dot ie.
