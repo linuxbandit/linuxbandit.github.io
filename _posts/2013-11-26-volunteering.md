@@ -3,6 +3,7 @@ layout: post
 title: Volunteering
 categories:
 - blog
+tags:
 - AEGEE
 - volunteering
 ---

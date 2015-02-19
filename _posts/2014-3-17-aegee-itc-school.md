@@ -3,6 +3,7 @@ layout: post
 title: IT European School 2014
 categories:
 - blog
+tags:
 - AEGEE
 - volunteering
 ---
