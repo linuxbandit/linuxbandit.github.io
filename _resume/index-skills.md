@@ -6,8 +6,8 @@
 
 ----
 
->  Specialties: C++, Java, Linux\
->  Striving to stand on the shoulders of Giants
+>  This is my target résumé\
+>  In red are the skills I want to get (or if this is a recap, the ones that I posponed)
 
 ----
 
@@ -15,13 +15,13 @@
 Skills
 ---------
 
-+ **Main programming languages:**  C++, C, Java, _Python_;
++ **Main programming languages:**  C++, C, Java, Python;
 
-+ **Web-based application scripting and database:**  PHP, _Node.js_, HTML, XML, CSS, JavaScript, MySQL;
++ **Web-based application scripting and database:**  PHP, Node.js, HTML, XML, CSS, JavaScript, MySQL, NoSQL(MongoDB, Redis);
 
 + **Low-level assembly programming languages:**   MIPS, Z80;
 
-+ **Frameworks and Libraries:**   OpenCV, OpenGL, TestNG, JUnit, XNA,  jQuery, Qt, _Boost_, _Backbone.js_;
++ **Frameworks and Libraries:**   OpenCV, OpenGL, TestNG, JUnit, XNA,  jQuery, Qt, _Boost_, _Backbone.js_, _Rails_;
 
 + **IDEs and text editors:**   Eclipse, Microsoft Visual Studio, NetBeans, QtCreator, Kile(LaTeX);
 
@@ -31,9 +31,9 @@ Skills
 
 + **Automated build systems:**   ANT, Make;
 
-+ **Networking:**   Management of SSH, CUPS, DNS, LDAP, MySQL, HTTP (proxy/web), POP/SMTP/IMAP, Firewall, VPN services, _Puppet_;
++ **System administration:**   Management of SSH, CUPS, DNS, LDAP, MySQL, HTTP (proxy/web), POP/SMTP/IMAP, Firewall, VPN services, _Puppet_;
 
-+ **Minor and miscellaneous skills:**   Unix shell scripts, ~~Python~~, _NoSQL(MongoDB, Redis)_, _PostgreSQL_, C#, applet, servlet, JSP, Other DBMS, UML, MPI parallel processing library;
++ **Minor and miscellaneous skills:**   Unix shell scripts, _ElasticSearch_, _PostgreSQL_, C#, applet, servlet, JSP, Other DBMS, UML, MPI parallel processing library;
 
 
 Languages
@@ -54,12 +54,12 @@ Certifications
 ------------------------
 + _Either a Linux or CISCO certification, still undecided_
 
-+ _PADI Open Water diver_
++ PADI Open Water diver
 
-+ _International Certificate of Competency (sailing licence)_
++ International Certificate of Competency (sailing licence)
 
 
 ----
-> [See my current résumé](..) \
+> [See my current full résumé](..) \
 > <fabrizio@bellicano.it> • +353 872 736 848 • Born MCMLXXXIX (1989)\
 

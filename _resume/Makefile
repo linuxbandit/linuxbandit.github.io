@@ -7,7 +7,7 @@ full: index-full.md style.css
 	cp style.css ../resume/style.css
 
 skills: index-skills.md style.css
-	pandoc --standalone --include-in-header=favicon.txt --title-prefix="Objective résumé" -c ../style.css --from markdown --to html -o ../resume/temp/index.html index-skills.md
+	pandoc --standalone --include-in-header=favicon.txt --title-prefix="Objective résumé" -c ../style.css --from markdown --to html -o ../resume/skill/index.html index-skills.md
 
 #index.pdf: index.html
 #	wkhtmltopdf index.html index.pdf
