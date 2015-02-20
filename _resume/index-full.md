@@ -24,7 +24,7 @@ Feb 2014 - \ \ \ Current
 :   *System administrator & Project manager/developer for IanuaTech s.r.l.* \
      (Genova, Italy - remote position).
 
-    + **Tasks:** Project management, scrum leader, developer
+    + **Tasks:** Server administration, project management, scrum leader, developer
     + **Team size:** 3
     + **Responsibilities:** Monitoring the workflow of the team, peer reviews of code
     + **Technologies/tools:** Agile programming, PHP, WordPress
@@ -84,7 +84,7 @@ Skills
 
 + **Automated build systems:**   ANT, Make;
 
-+ **Networking:**   Management of SSH, CUPS, DNS, LDAP, MySQL, HTTP (proxy/web), POP/SMTP/IMAP, Firewall, VPN services;
++ **System administration:**   Management of SSH, CUPS, DNS, LDAP, MySQL, HTTP (proxy/web), POP/SMTP/IMAP, Firewall, VPN services;
 
 + **Minor and miscellaneous skills:**   Unix shell scripts, C#, applet, servlet, JSP, Other DBMS, UML, MPI parallel processing library;
 
