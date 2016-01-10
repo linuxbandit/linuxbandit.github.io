@@ -1,5 +1,6 @@
 <!--em for the emphasys of future skills (target résumé)-->
 <style> em { color: #ED6944; } </style>
+<style> code { font-size: 16px; color: #7FFFD4; } </style>
 
 [Fabrizio Bellicano](../..)
 =========================
@@ -17,11 +18,11 @@ Skills
 
 + **Main programming languages:**  C++, C, Java, Python;
 
-+ **Web-based application scripting and database:**  PHP, Node.js, HTML, XML, CSS, JavaScript, MySQL, NoSQL(MongoDB, Redis);
++ **Web-based application scripting and database:**  PHP, Node.js, HTML5, CSS, JavaScript, MySQL, NoSQL(MongoDB, Redis);
 
 + **Low-level assembly programming languages:**   MIPS, Z80;
 
-+ **Frameworks and Libraries:**   OpenCV, OpenGL, TestNG, JUnit, XNA,  jQuery, Qt, _Boost_, _Backbone.js_, _Rails_;
++ **Frameworks and Libraries:**   OpenCV, OpenGL, TestNG, JUnit, XNA,  jQuery, Qt, Express.js, _Boost_, _Backbone.js_, _Rails_;
 
 + **IDEs and text editors:**   Eclipse, Microsoft Visual Studio, NetBeans, QtCreator, Kile(LaTeX);
 
@@ -31,9 +32,9 @@ Skills
 
 + **Automated build systems:**   ANT, Make;
 
-+ **System administration:**   Management of SSH, CUPS, DNS, LDAP, MySQL, HTTP (proxy/web), POP/SMTP/IMAP, Firewall, VPN services, _Puppet_;
++ **System administration:**   Management of SSH, CUPS, DNS, LDAP, MySQL, HTTP (proxy/web), POP/SMTP/IMAP, Firewall, VPN services, Puppet;
 
-+ **Minor and miscellaneous skills:**   Unix shell scripts, _ElasticSearch_, _PostgreSQL_, C#, applet, servlet, JSP, Other DBMS, UML, MPI parallel processing library;
++ **Minor and miscellaneous skills:**  Unix shell scripts, API programming, XML/JSON, Vagrant, _ElasticSearch_, PostgreSQL, C#, applet, servlet, JSP, Other DBMS, UML, MPI parallel processing library;
 
 
 Languages
@@ -43,23 +44,20 @@ Languages
 + English
 :   Proficient
 + French
-:   Intermediate (comprehension), Basic (speaking)
+:   Intermediate (comprehension), _Intermediate_ (speaking)
 + Dutch
 :   _Basic_
-+ _Portuguese_
-:   _Beginner (self-teaching)_
 
 
 Certifications
 ------------------------
-+ _Either a Linux or CISCO certification, still undecided_
 
 + PADI Open Water diver
 
-+ International Certificate of Competency (sailing licence)
++ Limited radio-telephonist certificate (VHF)
 
 
 ----
 > [See my current full résumé](..) \
-> <fabrizio@bellicano.it> • +353 872 736 848 • Born MCMLXXXIX (1989)\
+> <fabrizio@bellicano.it> • +32 487 823 456 • Born MCMLXXXIX (1989)\
 

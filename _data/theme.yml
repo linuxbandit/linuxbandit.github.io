@@ -31,3 +31,16 @@ show_disclaimer: true
 
 # Toggle link/icon to view atom feed (/atom.xml) in sidebar
 show_atom_feed: false
+
+# Links to include in top navigation
+# For external links add external: true
+linkz:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Resume
+    url: /resume
+  - title: Resources
+    url: /resources.html
+

@@ -17,7 +17,7 @@ Feb 2015 - \ \ \ Current
     
     + **Tasks:** Development of core modules of the new IT infrastructure
     + **Responsibilities:** Organising human resources of IT Committee
-    + **Technologies/tools:** LDAP, (tbd)
+    + **Technologies/tools:** LDAP, Node.js, Express.js, REST, Vagrant/Puppet
 
 
 Feb 2014 - \ \ \ Current
@@ -70,11 +70,11 @@ Skills
 
 + **Main programming languages:**  C++, C, Java, Python;
 
-+ **Web-based application scripting and database:**  PHP, Node.js, HTML, XML, CSS, JavaScript, MySQL, NoSQL(MongoDB, Redis);
++ **Web-based application scripting and database:**  PHP, Node.js, HTML5, CSS, JavaScript, MySQL, NoSQL(MongoDB, Redis);
 
 + **Low-level assembly programming languages:**   MIPS, Z80;
 
-+ **Frameworks and Libraries:**   OpenCV, OpenGL, TestNG, JUnit, XNA,  jQuery, Qt;
++ **Frameworks and Libraries:**   OpenCV, OpenGL, TestNG, JUnit, XNA, jQuery, Qt, Express.js;
 
 + **IDEs and text editors:**   Eclipse, Microsoft Visual Studio, NetBeans, QtCreator, Kile(LaTeX);
 
@@ -84,9 +84,9 @@ Skills
 
 + **Automated build systems:**   ANT, Make;
 
-+ **System administration:**   Management of SSH, CUPS, DNS, LDAP, MySQL, HTTP (proxy/web), POP/SMTP/IMAP, Firewall, VPN services;
++ **System administration:**   Management of SSH, CUPS, DNS, LDAP, MySQL, HTTP (proxy/web), POP/SMTP/IMAP, Firewall, VPN services, Puppet;
 
-+ **Minor and miscellaneous skills:**   Unix shell scripts, C#, applet, servlet, JSP, Other DBMS, UML, MPI parallel processing library;
++ **Minor and miscellaneous skills:**   Unix shell scripts, API programming, XML/JSON, Vagrant, PostgreSQL, C#, applet, servlet, JSP, Other DBMS, UML, MPI parallel processing library;
 
 
 
@@ -94,7 +94,8 @@ Activities and interests
 ------------------------
 
 Hobbies
-:   I like reading, and I love travelling.
+:   I like reading, and I love travelling. Biggest travel so far: 
+Transsiberian railway (Russia) -> Mongolia -> China -> Malaysia -> Indonesia -> Viet Nam -> Thailand.
 
 Sports
 :   At the moment is running only, but I have played so many. Artistic gymnastics, karate, sailing, orienteering, rugby, capoeira.
@@ -120,10 +121,10 @@ Certifications
 ------------------------
 + PADI Open Water diver
 
-+ International Certificate of Competency (sailing licence)
++ Limited radio-telephonist certificate (VHF)
 
 ----
 
-> [See my objectives for this year](2015-end) \
-> <fabrizio@bellicano.it> • +353 872 736 848 • Born MCMLXXXIX (1989)\
+> [See my objectives for this year](2016-end) \
+> <fabrizio@bellicano.it> • +32 487 823 456 • Born MCMLXXXIX (1989)\
 
