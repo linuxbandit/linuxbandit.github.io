@@ -12,28 +12,29 @@ body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     width: 800px;
     margin: auto;
-    background: #FFFFFF;
+    /* background: #FFFFFF; */
     padding: 10px 10px 10px 10px;
-    color: rgb(127, 123, 108); /*added for lagom theme colors*/
-    background-color: rgba(0, 0, 0, 0.9); /*added for lagom theme colors*/
+    color: rgb(0, 0, 0); /*added for lagom theme colors*/
+    /* background-color: rgba(41, 66, 68, 0.9); /*added for lagom theme colors*/
+    background-image: url(/img/bg-opaque.jpg);
 }
 
 /* Title of the resume */
 h1 {
     font-size: 55px;
-    color: #757575;
+    color: #235F91;
     text-align:center;
     margin-bottom:15px;
 }
 h1:hover {
     background-color: #757575;
-    color: #FFFFFF;
+    color: #239155;
     text-shadow: 1px 1px 1px #333;
 }
 
 /* Titles of categories */
 h2 {
-    color: #397249;
+    color: #239155;
 }
 /* There is a bar just before each category */
 h2:before {
@@ -42,10 +43,10 @@ h2:before {
     margin-right:1%;
     width: 16%;
     height: 10px;
-    background-color: #9CB770;
+    background-color: #239155;
 }
 h2:hover {
-    background-color: #397249;
+    background-color: #239155;
     color: #FFFFFF;
     text-shadow: 1px 1px 1px #333;
 }
@@ -74,10 +75,10 @@ blockquote {
 a {
     text-decoration: none;
     /*color: #397249;*/
-    color: #3498db; /*modified for lagom theme colors*/
+    color: #235F91; /*modified for lagom theme colors*/
 }
 a:hover, a:active {
-    background-color: #397249;
+    background-color: #239155;
     color: #FFFFFF;
     text-decoration: none;
     text-shadow: 1px 1px 1px #333;

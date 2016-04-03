@@ -6,13 +6,30 @@
 {% include css/layout.css %}
 {% include css/syntax.css %}
 
-/* #Nice colors no eye-stressing
+/* #Custom colours, more eye-stressing but nicer :((   
 ================================================== */
 body.night {
-    color: rgb(127, 123, 108);
-    background-color: rgba(0, 0, 0, 0.9);
+    color: rgba(0, 0, 0, 0.8);
+    /*background-color: rgba(0, 0, 0, 0.2);*/
+    background-image: url(/img/bg-opaque.jpg);
 }
 
-h1, h2, h3, h4, h5, h6 {
-    color: rgb(127, 123, 108);
+h1, h2, h4, h5, h6 {
+    color: rgba(0, 0, 0, 1);
+}
+
+h1.title, h3 {
+    color: #239155
+}
+
+.home {
+    color: rgba(0, 0, 0, 0.8);
+}
+
+p.meta {
+  color: rgba(145,35,95, 1);
+}
+
+ul.posts span {
+  color: rgba(145,35,95, 1);
 }

@@ -1,6 +1,6 @@
 <!--em for the emphasys of future skills (target résumé)-->
-<style> em { color: #ED6944; } </style>
-<style> code { font-size: 16px; color: #7FFFD4; } </style>
+<style> em { color: #9B0909; font-weight: bold; } </style>
+<style> code { font-size: 16px; color: #278E2F; font-weight: bold; } </style>
 
 [Fabrizio Bellicano](../..)
 =========================
@@ -8,7 +8,12 @@
 ----
 
 >  This is my target résumé\
->  In red are the skills I want to get (or if this is a recap, the ones that I posponed)
+>  In red are the skills I want to get (or if this is a review, the ones that I posponed)
+
+<!--
+>  This is my review résumé\
+>  In green are the skills I added, in red the ones that I posponed
+-->
 
 ----
 
